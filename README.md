@@ -1,4 +1,5 @@
 # Module Project: Component Side Effects- NASA APOD
+[View Deployed Project](https://nasa-photo-of-the-day-plum.now.sh/)
 
 Consumes the NASA API to fetch the "Astronomy Photo Of The Day" or APOD.  A few components render different pieces of data in the interface. Styled using the styled-components library. Built from scratch. 
 
